@@ -2,7 +2,6 @@
 # To-do-Task-App-React-native
 To do task App
 =======
-# Sample Snack app
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
@@ -14,3 +13,21 @@ If you're having problems, you can tweet to us [@expo](https://twitter.com/expo)
 
 Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
 >>>>>>> 98d3269 (Initial commit - Add React Native project)
+
+## Installation
+
+```bash
+npm install
+# or
+yarn install
+```
+
+## Build and Run
+
+Next, run the development server:
+
+```bash
+npm start
+# or
+yarn start
+```
